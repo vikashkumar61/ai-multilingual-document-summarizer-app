@@ -3,6 +3,12 @@
 Streamlit app for PDF, DOCX, TXT, and pasted-text summarization using
 `csebuetnlp/mT5_multilingual_XLSum` from Hugging Face.
 
+## Try it online
+
+Open the public app on a phone or computer: [AI Multilingual Document Summarizer](https://multilingual-document-summarizer.streamlit.app/).
+
+Share this link directly through WhatsApp or any other messaging app. You do not need to run the app on your local computer.
+
 ## Windows setup (PowerShell)
 
 Open PowerShell in this project folder and run:
